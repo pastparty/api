@@ -1,0 +1,60 @@
+{
+    "planets": {
+        "mercury": {
+            "id": 1,
+            "name": "Mercury",
+            "moons": 0,
+            "rings": false,
+            "__comment": ""
+        },
+        "venus": {
+            "id": 2,
+            "name": "Venus",
+            "moons": 0,
+            "rings": false,
+            "__comment": ""
+        },
+        "earth": {
+            "id": 3,
+            "name": "Earth",
+            "moons": 1,
+            "rings": false,
+            "__comment": ""
+        },
+        "mars": {
+            "id": 4,
+            "name": "Mars",
+            "moons": 2,
+            "rings": false,
+            "__comment": ""
+        },
+        "jupiter": {
+            "id": 5,
+            "name": "Jupiter",
+            "moons": 69,
+            "rings": true,
+            "__comment": ""
+        },
+        "saturn": {
+            "id": 6,
+            "name": "Saturn",
+            "moons": 62,
+            "rings": true,
+            "__comment": ""
+        },
+        "uranus": {
+            "id": 7,
+            "name": "Uranus",
+            "moons": 27,
+            "rings": true,
+            "__comment": ""
+        },
+        "neptune": {
+            "id": 8,
+            "name": "Neptune",
+            "moons": 14,
+            "rings": true,
+            "__comment": ""
+        }
+    }
+}
